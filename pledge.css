@@ -1,0 +1,43 @@
+* {
+
+}
+body {
+    font-family: 'Kalam';
+    background-color: cornflowerblue;
+    
+}
+.pledge p {
+    font-size: 3rem;
+    color: blue;
+    text-align: center;
+    background-color: tan;
+}
+.pledge img {
+    margin-left: 34rem;
+    padding: 40px;
+    margin-bottom: -1.8rem;
+}
+.words p {
+    font-size: 2rem;
+    text-align: center;
+
+}
+.content {
+    text-align: center;
+}
+.content a {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+    border: 2px solid white;
+    padding: 14px 70px;
+    border-radius: 30px;
+    margin: 20px;
+    transition: 0.5s;
+
+}
+.content a:hover {
+    -webkit-text-stroke: 2px red;
+    color: transparent;
+}
